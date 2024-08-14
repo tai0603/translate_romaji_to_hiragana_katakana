@@ -55,7 +55,8 @@ romaji_to_katakana = {
 	'gya': 'ギャ', 'gyu': 'ギュ', 'gyo': 'ギョ',
 	'ja': 'ジャ', 'ju': 'ジュ', 'jo': 'ジョ',
 	'bya': 'ビャ', 'byu': 'ビュ', 'byo': 'ビョ',
-	'pya': 'ピャ', 'pyu': 'ピュ', 'pyo': 'ピョ'
+	'pya': 'ピャ', 'pyu': 'ピュ', 'pyo': 'ピョ',
+	'fa': 'ファ', 'fi': 'フィ', 'fe': 'フェ', 'fo':, 'フォ'
 }
 
 # Function to translate Romaji to Hiragana
